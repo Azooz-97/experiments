@@ -1,0 +1,26 @@
+ #mrjones{
+                color: burlywood ;
+             }
+           h1, h2, h3, h4 {
+                color: green;
+                font-size: 30px;
+                  background-color: purple;
+            }
+            h1 {
+                color: coral;
+                color: rgba(204, 82, 63, 0.5);
+            }
+
+            .uppercase{
+                text-transform: uppercase;
+            color: hotpink 
+            ; background-color: black;}
+            #the-one{
+                color: blue;
+            }
+            .important{
+                color: orchid;
+            }
+             #mrjones{
+                color: burlywood;
+             }
